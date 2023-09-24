@@ -1,4 +1,4 @@
-# Simulando uma criação de uma Conta no Banco
+# Simulando uma Conta Bancária
 
 ~~~
 import java.util.Scanner;
